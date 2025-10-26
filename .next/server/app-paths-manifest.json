@@ -1,3 +1,6 @@
 {
-  "/wallexusd/page": "app/wallexusd/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/wallexusd/page": "app/wallexusd/page.js",
+  "/page": "app/page.js",
+  "/faq/page": "app/faq/page.js"
 }
