@@ -20,8 +20,9 @@
     "postcss": "^8.4.31",
     "framer-motion": "^11.0.0"
   },
- "engines": {
-  "node": "20.x",
-  "npm": "10.x"
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  }
 }
-}
+
