@@ -2,11 +2,11 @@
   "name": "wallex-live-ethers",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev -p 3000",
-    "build": "next build",
-    "start": "next start -p 3000"
-  },
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start -p ${PORT:-8080}"
+}
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "chart.js": "^4.5.1",
